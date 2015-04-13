@@ -1,3 +1,5 @@
+THIS IS A FORKED README FROM THE DATASCIENTIST COURSERA COURSE BY RICO BARSACCHI 
+
 How to share data with a statistician
 ===========
 
